@@ -16,7 +16,7 @@ int main()
 	int i;
 	struct voiture c;
 	c.prix=0;
-	
+	//modification
 	f=fopen("Entree.txt","r");
 	fs=fopen("copie.txt","w");
 	for(i=0;i<3;i++)
